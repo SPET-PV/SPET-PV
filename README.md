@@ -3,19 +3,21 @@
 <h3 align="center">Theme: Hardware and Software Development for Embedded Systems</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FOTS4tXJlzyPZK%2Fgiphy.gif&f=1&nofb=1&ipt=696c909405b0fdb1f9381d2ffa05619fe3f38d5d778e29618aeb1a95a1c1a979&ipo=images">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spet-pv&label=Profile%20views&color=0e75b6&style=flat" alt="spet-pv"/> </p>
 
 - 🔭 I’m currently working on **CLI Rust Program**
 
+- 💬 I know a bit of **Python/Bash**
+
 - 🌱 I’m currently learning **The Rust Language**
 
-- 💬 I know a bit of **Python**
+- 📖 Planning to learn **ARM/x86 Assembly**
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.arm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/ARM_logo.svg" alt="arm" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://nasm.us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nasm.svg" alt="NASM" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-512x512.png" alt="rust" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+
 ---
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spet-pv&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="spet-pv" /></p>

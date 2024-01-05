@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FOTS4tXJlzyPZK%2Fgiphy.gif&f=1&nofb=1&ipt=696c909405b0fdb1f9381d2ffa05619fe3f38d5d778e29618aeb1a95a1c1a979&ipo=images">
 
 
-- 🔭 I’m currently working on **CLI Rust Program**
+- 🔭 I’m currently working on **Python Projects**
 
 - 💬 I know a bit of **Python/Bash**
 

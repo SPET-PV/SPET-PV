@@ -1,16 +1,16 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackernoon.com%2Fimages%2Ff2px36fy.gif&f=1&nofb=1&ipt=473468a15ca4c00f7982c681cb29c4d6df119cf444e67d533b4dc3d7e31f82f5&ipo=images)](https://github.com/SPET-PV)
 <h1 align="center">Pseudo : SPET</h1>
-<h3 align="center">Theme: Hardware and Software Development for Embedded Systems</h3>
-<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FOTS4tXJlzyPZK%2Fgiphy.gif&f=1&nofb=1&ipt=696c909405b0fdb1f9381d2ffa05619fe3f38d5d778e29618aeb1a95a1c1a979&ipo=images">
+<h3 align="center">Theme: Mobile Development & DevOps</h3>
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fce%2Fd2%2Fd0%2Fced2d0cc1832708a6a1ee95df0e285a1.gif&f=1&nofb=1&ipt=615ca5b35719f1d35ed5dcc5bc347e00dc8ae56da0e8fa8b7f2d22ba5851c7da">
 
 
-- 🔭 I’m currently working on **Python Projects**
+- 🔭 I’m currently working on **Android Projects**
 
-- 💬 I know a bit of **Python/Bash**
+- 💬 I know a bit of **Python / Bash / Docker**
 
-- 🌱 I’m currently learning **The C Language**
+- 🌱 I’m currently learning **Native Android Development (Kotlin, Jetpack Compose)**
 
-- 📖 Planning to learn **ARM/x86 Assembly**
+- 📖 Planning to learn **Kotlin Multiplatforme / Compose Multiplatforme**
 
 
 <h3 align="left">Languages and Tools:</h3>

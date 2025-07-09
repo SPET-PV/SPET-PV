@@ -19,7 +19,7 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/ides/android-studio.svg" alt="android studio" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <a href="https://www.jetbrains.com/kotlin-multiplatform" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/JetBrains/kotlin-multiplatform-dev-docs/refs/heads/master/images/icons/jb-kotlin-multiplatform-logo.svg" alt="kotlin multiplatform" width="40" height="40"/>
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/JetBrains/compose-multiplatform/refs/heads/master/artwork/compose-logo.svg" alt="jetpack compose multiplatform" width="40" height="40"/>

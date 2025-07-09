@@ -13,8 +13,44 @@
 - 📖 Planning to learn **Kotlin Multiplatforme / Compose Multiplatforme**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="jetpack compose" width="40" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/> </a> <a href="https://insert-kmp-docs-url.com" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" alt="kmp/cmp" width="40" height="40"/> </a> <a href="https://insert-koin.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/42991461?s=200&v=4" alt="koin" width="40" height="40"/> </a> <a href="https://ktor.io/" target="_blank" rel="noreferrer"> <img src="https://ktor.io/assets/img/ktor-logo-icon.svg" alt="ktor" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/512x512.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+You're right to want the official and most representative logos! It makes a big difference in presentation. I've searched for the correct images and here's the updated HTML with direct links to better, and in most cases, official SVG assets.
+HTML
+
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+    <img src="https://developer.android.com/images/jetpack/jetpack-compose-logo-512.png" alt="jetpack compose" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank" rel="noreferrer">
+    <img src="https://kotlinlang.org/assets/images/open-graph/kotlin-multiplatform.png" alt="kmp/cmp" width="40" height="40"/>
+  </a>
+  <a href="https://insert-koin.io/" target="_blank" rel="noreferrer">
+    <img src="https://insert-koin.io/img/koin-logo.png" alt="koin" width="40" height="40"/>
+  </a>
+  <a href="https://ktor.io/" target="_blank" rel="noreferrer">
+    <img src="https://ktor.io/assets/img/ktor_logo.svg" alt="ktor" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/512x512.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
 
 
 ---

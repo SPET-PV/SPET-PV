@@ -21,8 +21,8 @@
   </a>
   <a href="https://www.jetbrains.com/kotlin-multiplatform" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/JetBrains/kotlin-multiplatform-dev-docs/refs/heads/master/images/icons/jb-kotlin-multiplatform-logo.svg" alt="kotlin multiplatform" width="40" height="40"/>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/JetBrains/compose-multiplatform/refs/heads/master/artwork/compose-logo.svg" alt="jetpack compose multiplatform" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/compose-multiplatform/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/JetBrains/compose-multiplatform/refs/heads/master/artwork/compose-logo.svg" alt="compose multiplatform" width="40" height="40"/>
   </a>
   </a>
   <a href="https://insert-koin.io/" target="_blank" rel="noreferrer">

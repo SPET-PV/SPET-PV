@@ -21,19 +21,19 @@ HTML
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://developer.android.com/images/jetpack/jetpack-compose-logo-512.png" alt="jetpack compose" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jetpack-compose/jetpack-compose-awesome/refs/heads/master/images/logo.png" alt="jetpack compose" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/ides/android-studio.svg" alt="android studio" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank" rel="noreferrer">
     <img src="https://kotlinlang.org/assets/images/open-graph/kotlin-multiplatform.png" alt="kmp/cmp" width="40" height="40"/>
   </a>
   <a href="https://insert-koin.io/" target="_blank" rel="noreferrer">
-    <img src="https://insert-koin.io/img/koin-logo.png" alt="koin" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/InsertKoinIO/koin/refs/heads/main/docs/img/koin_main_logo.png" alt="koin" width="40" height="40"/>
   </a>
   <a href="https://ktor.io/" target="_blank" rel="noreferrer">
-    <img src="https://ktor.io/assets/img/ktor_logo.svg" alt="ktor" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ktorio/ktor-documentation/refs/heads/main/images/ktor_logo.svg" alt="ktor" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
